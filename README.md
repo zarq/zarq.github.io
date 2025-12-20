@@ -5,11 +5,15 @@
 My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel, but with the following priorities:
 
 1. To be used in (mostly large) headings, and all-caps word mark
-2. Fairly high x-height
-3. Circle shapes for round letters such as O, Q, C, a, b, etc.
-4. Cross point for capital letters fairly low (e.g. A, R, Y)
-5. Generally wide letters (wider than DM Sans; Silurum is okay)
+2. Start with a light weight (i.e., 200 or so)
+3. Fairly high x-height compared to the cap height
+4. Circle shapes for round letters such as O, Q, C, a, b, etc.
+5. Cross strokes and  fairly low (e.g. A, R, Y)
+6. Generally wide letters (wider than DM Sans; Silurum is okay)
 
+### But why?
+
+For fun and learning!
 
 ## Day 1 (2025-12-19)
 
@@ -27,3 +31,9 @@ Installed FontForge (on macOS), and literally only created 26 glyphs to cover th
 
 [See the font in action here!](2025-12-19/sample.html)
 
+## References
+
+  * https://typedesignresources.com/
+  * https://letterparts.com/
+  
+  
