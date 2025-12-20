@@ -16,6 +16,17 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 For fun and learning!
 
 
+## Day 3 (2025-12-21)
+
+### Rating
+
+***0/5 stars***
+
+Nothing really changed since yesterday
+
+### Progress
+
+
 ## Day 2 (2025-12-20)
 
 ### Rating
@@ -42,6 +53,35 @@ I had to do some math to get the A in the right shape. Currently the slope angle
 ![](2025-12-20/measuring-A-after.png)
 
 Also, I think the stroke width is far too big now. It's currently 100 wide, but that's too much for this font.
+
+The cross bar on the `H` is obviously too low, raising it to the middle. The `E` and `L` seem nice to cover next.
+
+Also, I'm reducing the line width to 70. See the work in progress: `H` and `I` updated, `A` is still thicker.
+
+![Thinner strokes work in progress](2025-12-20/thinner-strokes.png)
+
+I suppose I need to get serious about some of the ratios. Let's see, the ratio between the cap height and width of the capitals, let's start with:
+
+  * `H`, `E`, `N`: 800/600
+  * `O`, `Q`: 800 / 800 (want to keep those real circles
+  * `M`: Let's figure this one out later
+  
+The `L`:
+
+![Comically bad L](2025-12-20/bad-L.png)
+
+Yeah we need to make that a bit narrower, though we can fix details later.
+
+![Better L](2025-12-20/better-L.png)
+
+The `A`: 
+
+![HALbefore](2025-12-20/HAL-before.png)
+
+Let's lower the cross bar, make the strokes 70 instead of 100, and widen the letter overall (the angle was 72 degrees, it's 68 now).
+
+![HAL after](2025-12-20/HAL-after.png)
+
 
 
 [See the font in action here!](2025-12-20/sample.html)
