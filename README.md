@@ -56,6 +56,34 @@ At least it's legible :)
 
 Okay, we're certainly getting somewhere with this. Not necessarily somewhere good, but somewhere.
 
+### Glyphs
+
+Okay I'm already getting annoyed by the instability, awkward UI, and slowness of FontForge. I have installed Glyphs now, which comes with a 30-day trial. There is no direct import available of the .sfd files, so I imported a generated .otf file.
+
+I'm pleased by its speed. This could be good.
+
+![Capital N](2025-12-21/capital-n.png)
+
+Yeah except let's make it wider...
+
+![Capital N](2025-12-21/capital-n-2.png)
+
+Alright, I re-did the `O` and `o`, and used those to create the `C`, `c`, `a`, `b`, `d`, `p`, and ... hold on. The x-height is too low.
+
+![Wrong ratios](2025-12-21/wrong-ratios.png)
+![HBIlpa](2025-12-21/hbilpa.png)
+
+Yeah, we're just recreating other fonts that look like this. Here's the current font info:
+
+![font-info](2025-12-21/font-info.png)
+
+Let's make those lower case letters larger, let's say 600? Another thing I notice here is the ascenders/descenders are not the same length. Let's fix that too.
+
+![hbilpa-2](2025-12-21/hbilpa2.png)
+
+Much better! There are many visual inconsistencies between these letters, we'll fix those later. I will say that working with Glyphs at this point outperforms FontForge in both ease of use and speed.
+
+
 [See the font in action here!](2025-12-21/sample.html)
 
 
