@@ -83,6 +83,7 @@ Let's make those lower case letters larger, let's say 600? Another thing I notic
 
 Much better! There are many visual inconsistencies between these letters, we'll fix those later. I will say that working with Glyphs at this point outperforms FontForge in both ease of use and speed.
 
+I continued adding a bunch more lower case letters, based on the `o` shape. These are all wrong, but we'll get to that later, I just want to get most of the letters in a reasonable shape now.
 
 [See the font in action here!](2025-12-21/sample.html)
 
