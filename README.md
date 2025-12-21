@@ -22,7 +22,42 @@ For fun and learning!
 
 ***0/5 stars***
 
-Nothing really changed since yesterday
+Nothing really changed since yesterday, it's still a pretty unusable font.
+
+
+### Progress
+
+Let's get to work on the `O` and `o`. These should be circles.
+
+![First attempt](2025-12-21/first-attempt-capital-o.png)
+
+Not terrible. It's got a little overshoot already, but I just winged the amount. The stroke width seems a little off compared to the other letters, it seems I'm not good with simple math. I think what's going on is that when drawing a circle, FontForge is fine to snap one edge of the circle to a guideline, but let the other three anchors free. So the circles are not perfect.
+
+![Oo](2025-12-21/Oo.png)
+
+Couple of annoying things about FontForge: 
+  * It crashes rather frequently
+  * When placing guide lines, you don't see the coordinate value
+  * Changing the size of a circle requires manual editing of the bezier curves
+  
+Anyway, let's do `E` and `F` next, just copy the dimensions from the `L`.
+
+![HELLO](2025-12-21/hello.png)
+
+Hmm, still terrible, but getting somewhere at least.
+
+Adding the `T`, a little bit narrower than the `E`:
+
+![THE FIFTH](2025-12-21/the-fifth.png)
+
+At least it's legible :)
+
+![Getting somewhere...](2025-12-21/getting-somewhere.png)
+
+Okay, we're certainly getting somewhere with this. Not necessarily somewhere good, but somewhere.
+
+[See the font in action here!](2025-12-21/sample.html)
+
 
 ### Progress
 
@@ -106,7 +141,7 @@ Installed FontForge (on macOS), and literally only created 26 glyphs to cover th
 
 ## References
 
-  * https://typedesignresources.com/
-  * https://letterparts.com/
-  
+  * [https://typedesignresources.com/](https://typedesignresources.com/)
+  * [https://letterparts.com/](https://letterparts.com/)
+  * [https://www.youtube.com/watch?v=LR-CG5eB3nQ](https://www.youtube.com/watch?v=LR-CG5eB3nQ)
   
