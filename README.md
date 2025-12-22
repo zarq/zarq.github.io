@@ -30,6 +30,8 @@ And for shits and giggles I'll make the `m` a double `n`. Haha this is so terrib
 ![ummm..](2025-12-22/um.png)
 
 
+[See the font in action here!](2025-12-22/sample.html)
+
 
 
 ## Day 3 (2025-12-21)
