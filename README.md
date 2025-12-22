@@ -15,6 +15,22 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 
 For fun and learning!
 
+## Day 4 (2025-12-22)
+
+### Progress
+
+For some reason, the `e` is not rendered properly. There was a red node somewhere, I've removed it. It's still a terrible `e` though, but I'll fix that later. Let's get some more letter shapes done better.
+
+`x`, `v`, `X`, `V`, all should be fairly straightforward. `z` and `Z` are a little trickier. I'm going through the remaining letters fast now, not thinking about them too much. `W` and `v` and `M` are now just `V`'s stitched together.
+
+![xvwz](2025-12-22/xvwz.png)
+
+And for shits and giggles I'll make the `m` a double `n`. Haha this is so terrible, I love it.
+
+![ummm..](2025-12-22/um.png)
+
+
+
 
 ## Day 3 (2025-12-21)
 
