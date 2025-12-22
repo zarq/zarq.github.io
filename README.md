@@ -36,6 +36,10 @@ One thing to address now is that the spaces are pretty narrow for the font. I kn
 
 And since we're seeing overlap between lines, let's make the line height bigger and follow [https://glyphsapp.com/learn/vertical-metrics](https://glyphsapp.com/learn/vertical-metrics).
 
+Took some time to check out Glyph's plugins and scripts, some of those are useful, in particular 'Show Siblings'.
+
+The `Y` is interesting. I thought I could copy a `V` and add a stem, but that doesn't really work out.
+
 
 
 [See the font in action here!](2025-12-22/sample.html)
