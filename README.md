@@ -19,15 +19,23 @@ For fun and learning!
 
 ### Progress
 
-For some reason, the `e` is not rendered properly. There was a red node somewhere, I've removed it. It's still a terrible `e` though, but I'll fix that later. Let's get some more letter shapes done better.
+For some reason, the `e` is not rendered properly. There was a red node somewhere, I've removed it, and fixed the contour orientation. It's still a terrible `e` though, but I'll fix that later. Let's get some more letter shapes done better.
 
 `x`, `v`, `X`, `V`, all should be fairly straightforward. `z` and `Z` are a little trickier. I'm going through the remaining letters fast now, not thinking about them too much. `W` and `v` and `M` are now just `V`'s stitched together.
 
 ![xvwz](2025-12-22/xvwz.png)
 
-And for shits and giggles I'll make the `m` a double `n`. Haha this is so terrible, I love it.
+And for shits and giggles I'll make the `m` a double `n`. Hahaha this is so terrible, I love it.
 
 ![ummm..](2025-12-22/um.png)
+
+One thing to address now is that the spaces are pretty narrow for the font. I know I have to take a careful look at letter spacing later, but it's getting on my nerves. Let's fix that by adding the space glyph and make it twice as wide.
+
+![before-space](2025-12-22/before-space.png)
+![after-space](2025-12-22/after-space.png)
+
+And since we're seeing overlap between lines, let's make the line height bigger and follow [https://glyphsapp.com/learn/vertical-metrics](https://glyphsapp.com/learn/vertical-metrics).
+
 
 
 [See the font in action here!](2025-12-22/sample.html)
