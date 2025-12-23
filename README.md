@@ -47,6 +47,18 @@ The first thing I improved: made the space character wider (+38%). This makes lo
 
 ![Universal Declaration of Human Rights](2025-12-23/udohr.png)
 
+Remember how I said a few days ago the `A` was supposed to have a slope angle of 68 degrees? Turns out I lied, or maybe I can't do simple math. See the actual angles, they're all over the place:
+
+![A-angles](2025-12-23/a-angles.png)
+
+So I re-did the math, and look how beautiful it is!
+
+![A-after](2025-12-23/a-after.png)
+
+Now also I'll heed the key points of the video: horizontal lines appear thicker, diagonal lines appear thicker. Let's correct for both. And also, let's make the A a little taller (5 units into overshoot). Here it is, in context:
+
+![ABCDEF](2025-12-23/abcdef.png)
+
 
 [See the font in action here!](2025-12-23/sample.html)
 
@@ -75,8 +87,6 @@ And since we're seeing overlap between lines, let's make the line height bigger 
 Took some time to check out Glyph's plugins and scripts, some of those are useful, in particular 'Show Siblings'.
 
 The `Y` is interesting. I thought I could copy a `V` and add a stem, but that doesn't really work out.
-
-
 
 [See the font in action here!](2025-12-22/sample.html)
 
