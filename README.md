@@ -15,6 +15,23 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 
 For fun and learning!
 
+## Day 5 (2025-12-23)
+
+### Progress
+
+I watched [https://www.youtube.com/watch?v=LR-CG5eB3nQ](https://www.youtube.com/watch?v=LR-CG5eB3nQ) yesterday, and this explains why the lower case letters' stroke widths seem bigger than for the caps. The entire feel of the font did not turn out to be light at all. I will address this later when adding variable widths; for now I'm just going to call this font Light (300) instead of ExtraLight (200).
+
+First get the draft `D`, `B`, `P`, `Q`, `G`, and `R` implemented.
+
+![ODBPR](2025-12-23/odbpr.png)
+
+This is starting to look like a real font now. Just a few more letters left!
+
+![JKSUst before](2025-12-23/jksust-before.png)
+
+[See the font in action here!](2025-12-23/sample.html)
+
+
 ## Day 4 (2025-12-22)
 
 ### Progress
