@@ -17,6 +17,13 @@ For fun and learning!
 
 ## Day 5 (2025-12-23)
 
+### Rating
+
+***1/5 stars***
+
+Bumping the rating up by a full star because it's somewhat legible. Although Claude calls it "catastrophically generic", that sounds like a compliment at this stage. 
+
+
 ### Progress
 
 I watched [https://www.youtube.com/watch?v=LR-CG5eB3nQ](https://www.youtube.com/watch?v=LR-CG5eB3nQ) yesterday, and this explains why the lower case letters' stroke widths seem bigger than for the caps. The entire feel of the font did not turn out to be light at all. I will address this later when adding variable widths; for now I'm just going to call this font Light (300) instead of ExtraLight (200).
