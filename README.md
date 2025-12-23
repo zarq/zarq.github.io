@@ -43,6 +43,9 @@ Alright. So now we've got a draft font to work with. The approach I will take is
 2. Zoom out, and prioritize the remaining work
 3. Repeat
 
+The first thing I improved: made the space character wider (+38%). This makes longer text much more digestible:
+
+![Universal Declaration of Human Rights](2025-12-23/udohr.png)
 
 
 [See the font in action here!](2025-12-23/sample.html)
