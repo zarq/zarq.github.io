@@ -29,6 +29,22 @@ This is starting to look like a real font now. Just a few more letters left!
 
 ![JKSUst before](2025-12-23/jksust-before.png)
 
+For the `U`, I'm stealing the curve from the `P`, that seems roughly the right size. But no, it isn't. That's too narrow: The H and U look like they should roughly be the same width. The N (Thanks, 'Show Siblings' plug-in!) is a little wider yet, but I'm parking that for now.
+
+![HU](2025-12-23/hu.png)
+
+Oh man, the `S` and `s` shapes/curves are terrible to get right. I spent too much time today on these, but not nearly enough yet.
+
+![JKSUst after](2025-12-23/jksust-after.png)
+
+Alright. So now we've got a draft font to work with. The approach I will take is:
+
+1. Pick one letter to improve, and make it look better (not perfect, just 'better' in some way)
+2. Zoom out, and prioritize the remaining work
+3. Repeat
+
+
+
 [See the font in action here!](2025-12-23/sample.html)
 
 
