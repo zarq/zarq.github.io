@@ -287,4 +287,4 @@ Installed FontForge (on macOS), and literally only created 26 glyphs to cover th
   * [https://typedesignresources.com/](https://typedesignresources.com/)
   * [https://letterparts.com/](https://letterparts.com/)
   * [https://www.youtube.com/watch?v=LR-CG5eB3nQ](https://www.youtube.com/watch?v=LR-CG5eB3nQ)
-  
+  * [https://learn.microsoft.com/en-us/typography/develop/character-design-standards/uppercase](https://learn.microsoft.com/en-us/typography/develop/character-design-standards/uppercase)
