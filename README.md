@@ -35,6 +35,13 @@ Hmm, not sure yet. The bottom row is the wider N, but I also corrected the strok
 
 ![Wider N](2025-12-24/wider-n.png)
 
+No this is too much. Let's go for 54 degrees. In this version, correct the stroke width: 75 vertical, ~66 diagonal. This doesn't look quite right to me though, the difference in stroke widths is too big. Let's try a more subtle 72 -- 68.
+
+![Better N](2025-12-24/better-n.png) ![Betterer N with better stroke widths](2025-12-24/betterer-n.png)
+
+I haven't addressed the ink traps yet, but I'll do that later.
+
+
 
 [See the font in action here!](2025-12-24/sample.html)
 
