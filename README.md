@@ -15,6 +15,28 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 
 For fun and learning!
 
+## Day 6 (2025-12-24)
+
+### Progress
+
+Next, I want to take a look at the `N` and `O`, and spend some time thinking about the spacing. I think the `N` could be a little bit wider yet. 
+
+I also explored some other fonts, and what stands out to me there, is that the inner corners of the `N` have a very tiny horizontal line there, presumably as an ink trap. Let's experiment!
+
+![Current N](2025-12-24/current-n.png)
+
+So first make it a tiny bit wider. The diagonal line has an angle of 54.2 degrees downward. Let's make that 52 and see the effect. I'll work on that in the digit `1`, so we can compare them.
+
+![NONONO](2025-12-24/nonono-compare.png)
+
+Hmm, not sure yet. The bottom row is the wider N, but I also corrected the stroke widths.
+
+![Wider N](2025-12-24/wider-n.png)
+
+
+[See the font in action here!](2025-12-23/sample.html)
+
+
 ## Day 5 (2025-12-23)
 
 ### Rating
@@ -22,7 +44,6 @@ For fun and learning!
 ***1/5 stars***
 
 Bumping the rating up by a full star because it's somewhat legible. Although Claude calls it "catastrophically generic", that sounds like a compliment at this stage. 
-
 
 ### Progress
 
@@ -66,6 +87,7 @@ Now also I'll heed the key points of the video: horizontal lines appear thicker,
 
 ![ABCDEF](2025-12-23/abcdef.png)
 
+Oh and while we're at it, let's add the period `.`, the red character in the Universal Declaration of Human Rights.
 
 [See the font in action here!](2025-12-23/sample.html)
 
