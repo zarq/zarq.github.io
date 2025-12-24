@@ -10,10 +10,12 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 4. Circle shapes for round letters such as O, Q, C, a, b, etc.
 5. Cross strokes fairly low (e.g. A, R, Y)
 6. Generally wide letters (wider than DM Sans; Silurum is okay)
+7. "Oldstyle" numerals (i.e. minuscule)
 
 ### But why?
 
 For fun and learning!
+
 
 ## Day 6 (2025-12-24)
 
@@ -25,7 +27,7 @@ I also explored some other fonts, and what stands out to me there, is that the i
 
 ![Current N](2025-12-24/current-n.png)
 
-So first make it a tiny bit wider. The diagonal line has an angle of 54.2 degrees downward. Let's make that 52 and see the effect. I'll work on that in the digit `1`, so we can compare them.
+So first make it a tiny bit wider. The diagonal line has an angle of 54.2 degrees downward. Let's make that 52 and see the effect. I'll work on that in the glyph for the digit `1`, so we can compare them.
 
 ![NONONO](2025-12-24/nonono-compare.png)
 
@@ -34,7 +36,7 @@ Hmm, not sure yet. The bottom row is the wider N, but I also corrected the strok
 ![Wider N](2025-12-24/wider-n.png)
 
 
-[See the font in action here!](2025-12-23/sample.html)
+[See the font in action here!](2025-12-24/sample.html)
 
 
 ## Day 5 (2025-12-23)
