@@ -16,6 +16,12 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 
 For fun and learning!
 
+## Day 7 (2025-12-25)
+
+Merry Christmas!
+
+![HOHOHO](2025-12-25/hohoho.png)
+
 
 ## Day 6 (2025-12-24)
 
