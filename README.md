@@ -21,15 +21,14 @@ For fun and learning!
 
 Straightened out the left/right spacing of the capital letters. They're much more uniform this way, which may not be a good thing until I work on kerning. But at least this way, I can visually compare individual letters better in context.
 
+[See the font in action here!](2025-12-26/sample.html)
+
 
 ## Day 7 (2025-12-25)
 
 Merry Christmas!
 
 ![HOHOHO](2025-12-25/hohoho.png)
-
-
-[See the font in action here!](2025-12-26/sample.html)
 
 
 ## Day 6 (2025-12-24)
