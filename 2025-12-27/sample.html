@@ -21,6 +21,13 @@
   <body>
     <h1>The Best Font Ever</h1>
     <p><strong>Here is a sample of this font:</strong></p>
+    <div style="margin: 20px 0; padding: 15px; background: #f5f5f5; border-radius: 5px;">
+      <label for="fontSizeSlider">Font Size: <span id="fontSizeValue">100</span>%</label><br>
+      <input type="range" id="fontSizeSlider" min="50" max="200" value="100" style="width: 100%; margin-top: 10px;">
+      <br><br>
+      <label for="fontWeightSlider">Font Weight: <span id="fontWeightValue">300</span></label><br>
+      <input type="range" id="fontWeightSlider" min="100" max="800" step="100" value="300" style="width: 100%; margin-top: 10px;">
+    </div>
     <h1 class="f">Heading 1</h1>
     <h2 class="f">Heading 2</h2>
     <h3 class="f">Heading 3</h3>
@@ -53,5 +60,36 @@
     <p class="f" style="font-size: 48px;">the quick brown fox jumps over the lazy dog</p>
     <p class="f" style="font-size: 48px;"><em>the quick brown fox jumps over the lazy dog</em></p>
     <p class="f" style="font-size: 48px;"><strong>the quick brown fox jumps over the lazy dog</strong></p>
+    <script>
+      const slider = document.getElementById('fontSizeSlider');
+      const valueDisplay = document.getElementById('fontSizeValue');
+      const fontElements = document.querySelectorAll('.f');
+
+      slider.addEventListener('input', function() {
+        const scale = this.value / 100;
+        valueDisplay.textContent = this.value;
+
+        fontElements.forEach(element => {
+          const currentSize = window.getComputedStyle(element).fontSize;
+          const baseFontSize = parseFloat(currentSize) / (element.dataset.scale || 1);
+          element.dataset.scale = scale;
+          element.style.fontSize = (baseFontSize * scale) + 'px';
+        });
+      });
+
+      fontElements.forEach(element => {
+        element.dataset.scale = 1;
+      });
+
+      const weightSlider = document.getElementById('fontWeightSlider');
+      const weightDisplay = document.getElementById('fontWeightValue');
+
+      weightSlider.addEventListener('input', function() {
+        weightDisplay.textContent = this.value;
+        fontElements.forEach(element => {
+          element.style.fontWeight = this.value;
+        });
+      });
+    </script>
   </body>
 </html>
