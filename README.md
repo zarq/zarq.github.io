@@ -17,9 +17,20 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 For fun and learning!
 
 
+## Day 9 (2025-12-27)
+
+Earlier I corrected the stroke widths of the `H` in the wrong direction, fixed that now. Also more tweaking of the `O`.
+
+![HOHOHO](2025-12-27/hohoho.png)
+
+[See the font in action here!](2025-12-27/sample.html)
+
+
 ## Day 8 (2025-12-26)
 
 Straightened out the left/right spacing of the capital letters. They're much more uniform this way, which may not be a good thing until I work on kerning. But at least this way, I can visually compare individual letters better in context.
+
+Slightly tweaking the `O`. I've been following along with a few videos on type design, e.g. [https://www.youtube.com/watch?v=3r_Gm67pHAg](https://www.youtube.com/watch?v=3r_Gm67pHAg).
 
 [See the font in action here!](2025-12-26/sample.html)
 
@@ -57,7 +68,7 @@ I haven't addressed the ink traps yet, but I'll do that later.
 
 
 
-[See the font in action here!](2025-12-24/sample.html)
+[See the font in action here!](2025-12-26/sample.html)
 
 
 ## Day 5 (2025-12-23)
