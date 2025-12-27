@@ -23,6 +23,10 @@ Earlier I corrected the stroke widths of the `H` in the wrong direction, fixed t
 
 ![HOHOHO](2025-12-27/hohoho.png)
 
+Next: `D`. I don't like the shape of the bowl yet, I will have to revisit this.
+
+![D](2025-12-27/d.png)
+
 [See the font in action here!](2025-12-27/sample.html)
 
 
