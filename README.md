@@ -26,6 +26,11 @@ Alright, I'm pretty content with this shape. After straightening, cleaning up, a
 
 ![HMNAMAMINUM](2025-12-28/m2.png)
 
+Next up is that awkward `W`:
+
+![W](2025-12-28/w.png)
+
+
 
 [See the font in action here!](2025-12-28/sample.html)
 
