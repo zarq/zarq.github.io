@@ -30,6 +30,7 @@ Next up is that awkward `W`:
 
 ![W](2025-12-28/w.png)
 
+I've been keeping track of improvements to make in this [kanban board](https://github.com/users/zarq/projects/2/views/2). The next batch of letters are the angular capitals: `TLEFVZXKY`. Of these, the `T`, `V`, and `Z` are the most awkward. After those, it's time to also review some of the lower case letters.
 
 
 [See the font in action here!](2025-12-28/sample.html)
