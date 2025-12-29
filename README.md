@@ -16,6 +16,16 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 
 For fun and learning!
 
+## Day 11 (2025-12-29)
+
+More tweaking of the `M`, making it a little wider yet (but just a few units).
+
+![M](2025-12-29/m.png)
+
+
+[See the font in action here!](2025-12-29/sample.html)
+
+
 ## Day 10 (2025-12-28)
 
 Let's get to work on that `M`.
