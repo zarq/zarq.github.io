@@ -22,6 +22,16 @@ More tweaking of the `M`, making it a little wider yet (but just a few units).
 
 ![M](2025-12-29/m.png)
 
+Next, covering the `V`, `Y`, `Z`, `T`, `X`:
+
+![VYZTX](2025-12-29/vyztx.png)
+
+There's a bit of a grid pattern going on. I did not even try to get these letters in the same width, but it happens "naturally".
+
+For fun, I tried searching for a font that looks like this on [http://www.identifont.com/](http://www.identifont.com/), and I ended up on [Bw Modelica SS01 Bold](http://www.identifont.com/list?1+17-.-7UG-10-DH-1KS-4B-4C-2F-53K-1U9-1LA-6X5-19-1KI-1QY-1T-9Z+0.3+4INY+2+4INU+2+4INA+2), or [Galano Classic Alternate](http://www.identifont.com/list?1+20-.-2F-10-4C-J-6XA-JPM-2L-1LA-1KS-26RB-1U9-53K-4Y-6X6-19-1KI-1QY-1T-9Z+2.6+3MJ3+2+3MJ0+2+3MJ6+2+7LT+6+2YK+6+5VF+10) depending on whether the `G` has a spur. It currently does, though I want to get rid of it. Of these two fonts though, Galano Classic Alternate has also made the choice of large bowls for the `R` and `P`, but then the `B` is more evenly distributed. Interesting!
+
+![Bw Modelica](2025-12-29/modelica.png)
+![Galano](2025-12-29/galano.png)
 
 [See the font in action here!](2025-12-29/sample.html)
 
