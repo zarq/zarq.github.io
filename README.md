@@ -34,6 +34,10 @@ For fun, I tried searching for a font that looks like this on [http://www.identi
 ![Bw Modelica](2025-12-29/modelica.png)
 ![Galano](2025-12-29/galano.png)
 
+Next I worked on the lower case letters: updating the horizontal spacing for all letters, and started to work on the `n` and `m`: narrowing them, making stroke weight less, and start playing with the curves.
+
+![The quick fox](2025-12-29/fox.png)
+
 [See the font in action here!](2025-12-29/sample.html)
 
 
