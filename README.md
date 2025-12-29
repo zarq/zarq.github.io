@@ -4,13 +4,14 @@
 
 My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel, but with the following priorities:
 
-1. To be used in (mostly large) headings online, and all-caps word mark
-2. Start with a light weight (i.e., 200 or so)
-3. Fairly high x-height compared to the cap height
-4. Circle shapes for round letters such as O, Q, C, a, b, etc.
-5. Cross strokes fairly low (e.g. A, R, Y)
-6. Generally wide letters (wider than DM Sans; Silurum is okay)
-7. "Oldstyle" numerals (i.e. minuscule)
+1. To be used in (mostly large) headings online, and all-caps word mark, and chapter headings in documents
+2. Geometric in basic approach, but correct for readability and evenness
+3. Start with a light weight (i.e., 200 or so)
+4. Fairly high x-height compared to the cap height
+5. Circle shapes for round letters such as O, Q, C, a, b, etc.
+6. Cross strokes fairly low (e.g. A, R, Y)
+7. Generally wide letters (wider than DM Sans; Silurum is okay)
+8. "Oldstyle" numerals (i.e. minuscule)
 
 ### But why?
 
