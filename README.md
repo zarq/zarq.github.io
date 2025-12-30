@@ -25,6 +25,13 @@ Spent some time with Montserrat, it has some weird shapes going on, e.g. the out
 
 Slightly modified the tail of the `Q`. Not because it's a priority, but because it started to stand out.
 
+Back to the `n` and `m`. I need to stop ignoring how it looks like in a pixel grid, because the stem of the `n` is just blurry. Let's look at the TrueType tool!
+
+![Blurry `n`](2025-12-30/blurry-n.png)
+
+Oh yeah that's bad. Adding a hint to it, though I should say I'm not sure if I'm doing this right:
+
+![Better `n`](2025-12-30/n-with-hints.png)
 
 
 [See the font in action here!](2025-12-30/sample.html)
