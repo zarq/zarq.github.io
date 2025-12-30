@@ -8,8 +8,8 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 2. Geometric in basic approach, but correct for readability and evenness
 3. Start with a light weight (i.e., 200 or so)
 4. Fairly high x-height compared to the cap height
-5. Circle shapes for round letters such as O, Q, C, a, b, etc.
-6. Cross strokes fairly low (e.g. A, R, Y)
+5. Circle shapes for round letters such as `O`, `Q`, `C`, `a`, `b`, etc.
+6. Cross strokes fairly low (e.g. `A`, `R`, `Y`)
 7. Generally wide letters (wider than DM Sans; Silurum is okay), open apertures (`s`, `c`, `e`, etc.)
 8. "Oldstyle" numerals (i.e. minuscule)
 
