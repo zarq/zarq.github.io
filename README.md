@@ -17,6 +17,19 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 
 For fun and learning!
 
+## Day 12 (2025-12-30)
+
+Spent some time with Montserrat, it has some weird shapes going on, e.g. the outer path on the right hand side of the `B` curls in on itself, something that happens in other letters, too. I wonder if this is an artefact of how the letters are designed.
+
+![Montserrat B](2025-12-30/montserrat-b.png)
+
+Slightly modified the tail of the `Q`. Not because it's a priority, but because it started to stand out.
+
+
+
+[See the font in action here!](2025-12-30/sample.html)
+
+
 ## Day 11 (2025-12-29)
 
 More tweaking of the `M`, making it a little wider yet (but just a few units).
