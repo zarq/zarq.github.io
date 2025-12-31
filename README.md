@@ -17,6 +17,13 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 
 For fun and learning!
 
+## Day 13 (2025-12-31)
+
+Worked on the `n` and `o`. The `o` seems right now, though the contrast with the capital `H` is pretty big. Let's see how this develops.
+
+![OoH](2025-12-31/ooh.png)
+
+
 ## Day 12 (2025-12-30)
 
 Spent some time with Montserrat, it has some weird shapes going on, e.g. the outer path on the right hand side of the `B` curls in on itself, something that happens in other letters, too. I wonder if this is an artefact of how the letters are designed.
