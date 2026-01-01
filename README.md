@@ -22,7 +22,7 @@ For fun and learning!
 
 ![Happy 2026!](2026-01-01/happy.png)
 
-
+`Happy New Year!`
 
 [See the font in action here!](2026-01-01/sample.html)
 
