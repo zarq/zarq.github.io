@@ -18,6 +18,13 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 For fun and learning!
 
 
+## Day 15 (2026-01-02)
+
+Nothing much today, worked on the `x` a bit.
+
+[See the font in action here!](2026-01-02/sample.html)
+
+
 ## Day 14 (2026-01-01)
 
 ![Happy 2026!](2026-01-01/happy.png)
