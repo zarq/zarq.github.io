@@ -30,6 +30,10 @@ Updated the spacing of some of the letters, notably: `I` (upper case I), `i` (lo
 
 ![UDHR](2026-01-03/udhr.png)
 
+Also, here's the font in comparison with a number of others:
+
+![comparison](2026-01-03/comparison.png)
+
 
 [See the font in action here!](2026-01-03/sample.html)
 
