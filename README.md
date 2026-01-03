@@ -18,6 +18,16 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 For fun and learning!
 
 
+## Day 16 (2026-01-03)
+
+Worked on the `a`, and then `bdpq`:
+
+![abdpq](2026-01-03/abdpq.png)
+
+
+[See the font in action here!](2026-01-03/sample.html)
+
+
 ## Day 15 (2026-01-02)
 
 Nothing much today, worked on the `x` a bit.
