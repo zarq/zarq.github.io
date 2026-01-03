@@ -24,6 +24,12 @@ Worked on the `a`, and then `bdpq`:
 
 ![abdpq](2026-01-03/abdpq.png)
 
+![H/i/l/I](2026-01-03/hill.png)
+
+Updated the spacing of some of the letters, notably: `I` (upper case I), `i` (lower case I), `l`, (lower case L), `n` (lower case N), and `o` (lower case O). Then updated the other linked letters to match. Now this text looks much more even to me:
+
+![UDHR](2026-01-03/udhr.png)
+
 
 [See the font in action here!](2026-01-03/sample.html)
 
