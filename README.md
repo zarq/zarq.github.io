@@ -24,7 +24,9 @@ Alright, let's tackle the `n`, then the `h`, `u` should be straightforward. Then
 
 ![urhmn](2026-01-04/urhmn.png)
 
+Claude tells me:
 
+> Rating update: 3.5 stars. You're solidly in "functional typeface" territory now. With another round of optical refinement and proper kerning, this could easily hit 4 stars.
 
 [See the font in action here!](2026-01-04/sample.html)
 
