@@ -18,6 +18,17 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 For fun and learning!
 
 
+## Day 17 (2026-01-04)
+
+Alright, let's tackle the `n`, then the `h`, `u` should be straightforward. Then, the `m` is a bit more work, and so is the `r`.
+
+![urhmn](2026-01-04/urhmn.png)
+
+
+
+[See the font in action here!](2026-01-04/sample.html)
+
+
 ## Day 16 (2026-01-03)
 
 Worked on the `a`, and then `bdpq`:
