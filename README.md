@@ -18,6 +18,13 @@ My goal with this font is to create a font like Avenir, DM Sans, Silurum, Merel,
 For fun and learning!
 
 
+## Done (2026-01-05)
+
+I'm calling this project done for now. I won't have much time to spend on this now, and the Glyph trial license is going to expire soon.
+
+Thanks for watching!
+
+
 ## Day 17 (2026-01-04)
 
 Alright, let's tackle the `n`, then the `h`, `u` should be straightforward. Then, the `m` is a bit more work, and so is the `r`.
